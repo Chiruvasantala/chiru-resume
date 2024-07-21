@@ -1,0 +1,66 @@
+h1{
+        color: darkslategrey;
+        text-align: center;
+        font-family: "Kalnia Glaze", serif;
+        font-size: 200px;
+        margin: 0px;
+
+    }
+h1[value="c"]{
+    font-family: "Kalnia Glaze", serif;
+    font-size: 80px;
+    margin-top: 0px;
+}
+html{
+    background-color: antiquewhite;
+}
+img{
+    height: 700px;
+    width: 700px;
+    margin-left: 4000px;
+    margin-top: 0px;
+}
+h2{
+    font-size: 80px;
+    font-family: "Bona Nova SC", serif;
+}
+div{
+    height: 1000px;
+    width: 2200px;
+}
+div[id="deepu"]{
+    width: 2500px;
+    height: 1000px;
+    margin-bottom: 0px;
+}
+
+
+div[id="chiru"]{
+    margin-left: 50px;
+    text-align: center;
+}
+table,td,th{
+    border: 10px solid;
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+    font-style: italic;
+    margin: 10px;
+}
+p{
+    font-size: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+div[id="mouni"]{
+    width: 3800px;
+    height: 3000px;
+    text-align: center;
+    margin: 0px;
+}
+
+img[id="papa"]{
+    height: 1200px;
+    width: 1200px;
+    margin-left: 4000px;
+    margin-top: 0px;
+}
